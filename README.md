@@ -39,14 +39,3 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 <br/>
 </a>
-<br/>
-<br/>
-
-# Status
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeValerioo&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeValerioo&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
