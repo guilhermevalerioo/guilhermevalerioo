@@ -20,7 +20,7 @@
 <!-- About Section -->
 # About Me
 
-<img align="right" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding gif" />
+<img align="right" height="350" width="350" src="assets/GuiCoding.gif" alt="Coding GIF">
 
 <p>
  ✝️&emsp;Jesus<br/><br/>
